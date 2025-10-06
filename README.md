@@ -14,5 +14,5 @@ Welcome to my portfolio! Here, I highlight some of my featured work in SQL and T
 
 | Project Link | Project Description | Dashboard Link |
 |--------------|------------------|---------------------|
-[Call-Center-Monthly-KPI](https://github.com/yourusername/Call-Center-Monthly-KPI) | A Tableau dashboard that tracks call center KPIs including call volume, resolution rates, satisfaction ratings, and agent performance. | [View Dashboard](https://public.tableau.com/app/profile/alesia.miloshevsky/viz/CallCenterMonthlyKPIDashboard_17590813507170/Dashboard1) |
+[Call-Center-Monthly-KPI](https://github.com/alesiamiloshevsky/Call-Center-Monthly-KPI) | A Tableau dashboard that tracks call center KPIs including call volume, resolution rates, satisfaction ratings, and agent performance. | [View Dashboard](https://public.tableau.com/app/profile/alesia.miloshevsky/viz/CallCenterMonthlyKPIDashboard_17590813507170/Dashboard1) |
 | [Telco-Customer-Churn](https://github.com/alesiamiloshevsky/Telco-Customer-Churn) | A Tableau dashboard analyzing churn behavior using customer demographics, account details, and subscription services to understand why customers leave the company. | [View Dashboard](https://public.tableau.com/app/profile/alesia.miloshevsky/viz/ChurnRateDashboard_17549280197830/ChurnRateDashboard) |
